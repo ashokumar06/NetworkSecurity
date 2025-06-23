@@ -1,3 +1,10 @@
+setuptools
 python-dotenv
 numpy
 pandas
+pymongo
+certifi
+pymongo[srv]==4.13
+
+
+# -e .
