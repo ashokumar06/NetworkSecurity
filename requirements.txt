@@ -5,6 +5,7 @@ pandas
 pymongo
 certifi
 pymongo[srv]==4.13
+scikit-learn
 
 
 # -e .

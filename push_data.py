@@ -78,3 +78,4 @@ if __name__ == "__main__":
         logger.error(f"An unexpected error occurred: {e}")
         print(f"An unexpected error occurred: {e}")
         sys.exit(1)
+
