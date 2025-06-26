@@ -1,10 +1,7 @@
 from datetime import datetime
 import os
-import networksecurity.constant import training_pipeline 
+from networksecurity.constant import training_pipeline
 from sqlite3.dbapi2 import Timestamp
-
-print("Network Security Config Entity Module Loaded")
-print("Training Pipeline Name : ", training_pipeline.PIPELINE_NAME)
 
 
 class TraningPipelineConfig:
